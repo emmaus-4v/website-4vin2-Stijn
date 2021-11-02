@@ -10,5 +10,13 @@ body {background-color:rgb(22, 6, 26);}
 margin-left: 200px;}
 #p1 {color: white;}
 
+nav li a.active {
+    margin-left: 1000px;
+}
+nav li a.hover {
 
+}
+nav li a. {
+
+}
 
