@@ -1,12 +1,5 @@
 /* Basislayout */
-html, body {
-    height: 100%;
-    padding: 0;
-    background-color: #EEEEEE;  
-    
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
-}
+
 
 
 main {
@@ -89,9 +82,6 @@ h1 {
     position: absolute;
     right: 500px;
 }
-body {background-color:rgb(22, 6, 26);}
-#h2 {color: white;
-margin-left: 200px;}
-#p1 {color: white;}
 
-body {background-color: rgb(22, 6, 26);}
+body {background-color: rgb(22, 6, 26);
+color:white; }
