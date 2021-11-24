@@ -1,7 +1,14 @@
 /* Basislayout */
 
+#Space {
+text-align:center;
+margin-left: 310px;
+width: 50%;
 
-
+}
+p {
+    text-align: center;
+}
 main {
     margin: 0 auto;
     position: relative;
