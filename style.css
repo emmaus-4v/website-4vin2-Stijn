@@ -94,25 +94,44 @@ body {background-color: rgb(22, 6, 26);
 color:white; }
 
 #sterren {
-    height: 400px;
-    text-align: center;
-    margin-left: 310px;
-    width: 50%;
+    width: 40%;
+    height: 350px;
+    margin-left: 120px;
+}
+
+#ster {
+    width: 40%;
+    height: 350px;
+    margin-right: 120px;
+    margin-top: 70px;
 }
 
 #blackhole {
-    height: 400px;
-    text-align: center;
-    margin-left: 310px;
-    width: 50%;
+    width: 40%;
+    height: 350px;
+    margin-left: 120px;
+}
+
+#zuig {
+    width: 40%;
+    height: 350px;
+    margin-right: 120px;
+    margin-top: 70px;
 }
 
 #super {
-    height: 400px;
-    text-align: center;
-    margin-left: 310px;
-    width: 50%;
+width: 40%;
+height: 350px;
+margin-left: 120px;
 }
+
+#nova {
+    width: 40%;
+    height: 350px;
+    margin-right: 120px;
+    margin-top: 70px;
+}
+
 #planeet {
     height: 400px;
     text-align: center;
