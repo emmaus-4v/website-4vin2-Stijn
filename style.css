@@ -7,7 +7,7 @@ margin-left: 310px;
 width: 50%;
 
 }
-p {
+h3 {
     text-align: center;
 }
 main {
@@ -142,7 +142,15 @@ margin-left: 120px;
 float:left;
 margin-left: 30px;
 }
+
 #lijstje{
  height: 100px;
  margin-left: 30px;
+}
+p {
+    text-align: center;
+}
+#niet-zij {
+    text-align: left;
+    margin-left: 30px;
 }
