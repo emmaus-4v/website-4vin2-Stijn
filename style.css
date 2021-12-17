@@ -5,13 +5,8 @@ body, html {
   }
   
   .bg { 
-    /* The image used */
     background-image: url("694.jpg");
-  
-    /* Full height */
     height: 100%; 
-  
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,3 +175,10 @@ p {
 #countdown {
     height: 400px;
 }
+.Kerst { 
+    background-image: url(".jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
