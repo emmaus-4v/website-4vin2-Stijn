@@ -95,6 +95,10 @@ nav li a.active {
     background-color:rgb(22, 6, 26);
 }
 
+nav li a#Kerst {
+    background-color: red ;
+}
+
 
 h1 {
     color:purple;
@@ -176,9 +180,12 @@ p {
     height: 400px;
 }
 .Kerst { 
-    background-image: url(".jpg");
+    background-image: url("KErst.jpg");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  #Kerst_titel {
+      color: red;
   }
