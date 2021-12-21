@@ -56,17 +56,12 @@ img.zweefLinks {
     font-size: 0.7em;
 }
 
-a {
-    color: skyblue;
-    text-decoration: none;
-}
+
 
 a:hover {
     text-decoration: underline;
 }
 
-
-/* navigatiebalk */
 nav ul {
     list-style-type: none;
     margin:auto;
@@ -95,58 +90,14 @@ nav li a.active {
     background-color:rgb(22, 6, 26);
 }
 
-nav li a#Kerst {
-    background-color: red ;
-}
-
-
 h1 {
     color:purple;
     text-align: center;
-    
 }
 
-body {background-color: rgb(22, 6, 26);
-color:white; }
-
-#sterren {
-    width: 40%;
-    height: 350px;
-    margin-left: 120px;
-}
-
-#ster {
-    width: 40%;
-    height: 350px;
-    margin-right: 120px;
-    margin-top: 70px;
-}
-
-#blackhole {
-    width: 40%;
-    height: 350px;
-    margin-left: 120px;
-}
-
-#zuig {
-    width: 40%;
-    height: 350px;
-    margin-right: 120px;
-    margin-top: 70px;
-}
-
-#super {
-width: 40%;
-height: 350px;
-margin-left: 120px;
-}
-
-#nova {
-    width: 40%;
-    height: 350px;
-    margin-right: 120px;
-    margin-top: 70px;
-    border: 0px;
+body {
+    background-color: rgb(22, 6, 26);
+color:white; 
 }
 
 #planeet {
@@ -178,6 +129,8 @@ p {
 }
 #countdown {
     height: 400px;
+    font-size: 150px;
+    color:crimson;
 }
 .Kerst { 
     background-image: url("KErst.jpg");
@@ -187,5 +140,30 @@ p {
     background-size: cover;
   }
   #Kerst_titel {
-      color: red;
+      color:crimson;
   }
+
+  .left {
+    width: 40%;
+    height: 350px;
+    margin-left: 120px;
+  }
+  .right {
+    width: 40%;
+    height: 350px;
+    margin-right: 120px;
+    margin-top: 70px;
+    border: 0px;
+  }
+
+  nav li a.Cmas {
+    background-color:red;
+}
+
+nav ul#Cmas {
+    list-style-type: none;
+    margin:auto;
+    padding: 0;
+    background-color:crimson;
+    overflow: hidden;
+}
